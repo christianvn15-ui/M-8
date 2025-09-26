@@ -36,7 +36,7 @@ h1 {
 
 button {
   border: none;
-  border-radius: 100px;
+  border-radius: 100%;
   box-shadow: 0 0 2 2;
   width: 100px;
   padding: 10px;
