@@ -1,0 +1,55 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: magenta;
+  height: 100vh;
+}
+
+h1 {
+  align-self: center;
+  font-family: Arial;
+  color: aliceblue;
+}
+
+.box{
+  background: lightpink;
+  padding: 20px;
+  width: 90%;
+  max-width: 300px;
+  border-radius: 8px;
+  box-shadow: 0 20px 20px 0;
+  margin-top: 50px;
+}
+
+input[type="text"], input[type="password"] {
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
+  box-sizing: border-box;
+  border: none;
+  border-radius: 10px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
+  background: magenta;
+  border: none;
+  border-radius: 5px;
+}
+
+#error {
+  display: none;
+}
+
+header {
+  align-self: top;
+  background: aliceblue;
+  color: lightpink;
+  width: 100%;
+  text-align: center;
+  padding: 10px;
+}
+
