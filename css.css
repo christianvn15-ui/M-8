@@ -15,7 +15,7 @@ h1 {
 .box{
   background: lightpink;
   padding: 20px;
-  width: 90%;
+  width: 100%;
   max-width: 300px;
   border-radius: 8px;
   box-shadow: 0 20px 20px 0;
